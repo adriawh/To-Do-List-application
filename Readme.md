@@ -1,4 +1,6 @@
  # To-Do
+When making this application, gitLab was used and not gitHub, to see the original project check the link:
+https://gitlab.stud.iie.ntnu.no/eivisha/to-do-list
 
 <img src="src/main/resources/Images/Logo_Full_res.png" alt="drawing" width="200"/>
  
